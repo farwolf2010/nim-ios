@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
 
   
   s.dependency 'farwolf.weex'
-  s.dependency 'uikit'
+  s.dependency 'NIMKit'
 
 
 end
